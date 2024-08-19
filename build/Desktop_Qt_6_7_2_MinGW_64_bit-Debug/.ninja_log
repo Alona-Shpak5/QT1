@@ -1,0 +1,8 @@
+# ninja log v6
+4	737	7457576262984908	untitled_autogen/timestamp	1e04dd2190f6ff8f
+4	737	7457576262984908	untitled_autogen/mocs_compilation.cpp	1e04dd2190f6ff8f
+4	737	7457576262984908	C:/Users/Alona/Documents/untitled/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	1e04dd2190f6ff8f
+4	737	7457576262984908	C:/Users/Alona/Documents/untitled/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	1e04dd2190f6ff8f
+747	2756	7457576263706986	CMakeFiles/untitled.dir/main.cpp.obj	9d988e19fc0eb453
+742	2806	7457576263656993	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	a3ccdc9bc58d6d7e
+2808	3199	7457576284309137	untitled.exe	7f669cd8b6fc95d0
