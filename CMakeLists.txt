@@ -20,6 +20,7 @@ add_executable(untitled
   Analyzer.hpp
   Config.hpp
   main.cpp
+  resources.qrc
 )
 target_link_libraries(untitled Qt${QT_VERSION_MAJOR}::Core)
 

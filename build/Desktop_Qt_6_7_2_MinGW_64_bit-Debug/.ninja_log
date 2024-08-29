@@ -1,8 +1,20 @@
 # ninja log v6
-4	737	7457576262984908	untitled_autogen/timestamp	1e04dd2190f6ff8f
-4	737	7457576262984908	untitled_autogen/mocs_compilation.cpp	1e04dd2190f6ff8f
-4	737	7457576262984908	C:/Users/Alona/Documents/untitled/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	1e04dd2190f6ff8f
-4	737	7457576262984908	C:/Users/Alona/Documents/untitled/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	1e04dd2190f6ff8f
-747	2756	7457576263706986	CMakeFiles/untitled.dir/main.cpp.obj	9d988e19fc0eb453
 742	2806	7457576263656993	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	a3ccdc9bc58d6d7e
-2808	3199	7457576284309137	untitled.exe	7f669cd8b6fc95d0
+24	138	7466378813336752	C:/Users/Alona/Documents/untitled/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	1e04dd2190f6ff8f
+24	138	7466378813336752	untitled_autogen/timestamp	1e04dd2190f6ff8f
+24	138	7466378813336752	untitled_autogen/mocs_compilation.cpp	1e04dd2190f6ff8f
+175	228	7466376901041272	untitled_autogen/EWIEGA46WW/qrc_resources.cpp	ed08ac6c0830bf35
+24	138	7466378813336752	C:/Users/Alona/Documents/untitled/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	1e04dd2190f6ff8f
+175	228	7466376901041272	C:/Users/Alona/Documents/untitled/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/EWIEGA46WW/qrc_resources.cpp	ed08ac6c0830bf35
+139	1443	7466378814485003	CMakeFiles/untitled.dir/main.cpp.obj	9d988e19fc0eb453
+1443	1871	7466378827523388	untitled.exe	31552dddb756e2dd
+231	966	7466376901141278	CMakeFiles/untitled.dir/untitled_autogen/EWIEGA46WW/qrc_resources.cpp.obj	3efb37c4f595b343
+3	427	7466382844120073	build.ninja	349e4bed8e7848c
+16	114	7466382844771845	untitled_autogen/timestamp	1e04dd2190f6ff8f
+16	114	7466382844771845	untitled_autogen/mocs_compilation.cpp	1e04dd2190f6ff8f
+16	114	7466382844771845	C:/Users/Alona/Documents/untitled/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	1e04dd2190f6ff8f
+16	114	7466382844771845	C:/Users/Alona/Documents/untitled/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	1e04dd2190f6ff8f
+114	159	7466382846149450	untitled_autogen/EWIEGA46WW/qrc_resources.cpp	ed08ac6c0830bf35
+114	159	7466382846149450	C:/Users/Alona/Documents/untitled/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/EWIEGA46WW/qrc_resources.cpp	ed08ac6c0830bf35
+160	200	7466382846208399	CMakeFiles/untitled.dir/untitled_autogen/EWIEGA46WW/qrc_resources.cpp.obj	3efb37c4f595b343
+200	432	7466382846618353	untitled.exe	31552dddb756e2dd

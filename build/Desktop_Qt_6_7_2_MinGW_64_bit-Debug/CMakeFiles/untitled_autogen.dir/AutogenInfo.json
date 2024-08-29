@@ -132,7 +132,8 @@
 		"C:/Qt/6.7.2/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake",
 		"C:/Qt/6.7.2/mingw_64/lib/cmake/Qt6Core/QtInstallPaths.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/GNUInstallDirs.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/GNUInstallDirs.cmake"
+		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/GNUInstallDirs.cmake",
+		"C:/Users/Alona/Documents/untitled/resources.qrc"
 	],
 	"CMAKE_SOURCE_DIR" : "C:/Users/Alona/Documents/untitled",
 	"CROSS_CONFIG" : false,

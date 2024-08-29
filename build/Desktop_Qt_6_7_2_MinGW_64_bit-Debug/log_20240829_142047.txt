@@ -1,0 +1,8 @@
+2024-08-29 14:20:48 | name=Sensor_1 | value=41
+2024-08-29 14:20:48 | name=Sensor_2 | value=67
+2024-08-29 14:20:49 | name=Sensor_1 | value=34
+2024-08-29 14:20:49 | name=Sensor_2 | value=0
+2024-08-29 14:20:50 | name=Sensor_1 | value=69
+2024-08-29 14:20:50 | name=Sensor_2 | value=24
+2024-08-29 14:20:51 | name=Sensor_1 | value=78
+2024-08-29 14:20:51 | name=Sensor_2 | value=58
